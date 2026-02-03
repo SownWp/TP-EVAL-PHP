@@ -1,3 +1,6 @@
+Corentin COURARD
+
+
 <form action="#" method="post" id="inscription-form">
     <div>
         <label for="nom">Nom :</label>
